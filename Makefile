@@ -1,10 +1,10 @@
 BUILDDIR=$(shell pwd)/build
 IMPORT_PATH= \
-	github.com/trojan-gfw/igniter-go-libs/clash \
-	github.com/trojan-gfw/igniter-go-libs/tun2socks \
-	github.com/trojan-gfw/igniter-go-libs/freeport \
-	github.com/trojan-gfw/igniter-go-libs/util \
-	github.com/trojan-gfw/igniter-go-libs/trojan
+	github.com/frainzy1477/trojan-go-libs/clash \
+	github.com/frainzy1477/trojan-go-libs/tun2socks \
+	github.com/frainzy1477/trojan-go-libs/freeport \
+	github.com/frainzy1477/trojan-go-libs/util \
+	github.com/frainzy1477/trojan-go-libs/trojan
 
 # pass a single dollar sign to shell
 CURRENT_GOPATH="$(shell echo $$GOPATH)"
