@@ -249,8 +249,8 @@ github.com/oschwald/geoip2-golang v1.4.0/go.mod h1:8QwxJvRImBH+Zl6Aa6MaIcs5YdlZS
 github.com/oschwald/maxminddb-golang v1.6.0 h1:KAJSjdHQ8Kv45nFIbtoLGrGWqHFajOIm7skTyz/+Dls=
 github.com/oschwald/maxminddb-golang v1.6.0/go.mod h1:DUJFucBg2cvqx42YmDa/+xHvb0elJtOm3o4aFQ/nb/w=
 github.com/ovh/go-ovh v0.0.0-20181109152953-ba5adb4cf014/go.mod h1:joRatxRJaZBsY3JAOEMcoOp05CnZzsx4scTxi95DHyQ=
-github.com/p4gefau1t/trojan-go v0.4.10 h1:bMT+ZgdBDsGuFNLzCJcP+Tbs9aKCSLNQZ92IhNvDiFU=
-github.com/p4gefau1t/trojan-go v0.4.10/go.mod h1:CQrggNvl69CzHQ+n381lR+FrsUPH+csufiYCEZEub1g=
+github.com/frainzy1477/trojan-go v0.8.2.3 h1:bMT+ZgdBDsGuFNLzCJcP+Tbs9aKCSLNQZ92IhNvDiFU=
+github.com/frainzy1477/trojan-go v0.8.2.3/go.mod h1:CQrggNvl69CzHQ+n381lR+FrsUPH+csufiYCEZEub1g=
 github.com/patrickmn/go-cache v2.1.0+incompatible h1:HRMgzkcYKYpi3C8ajMPV8OFXaaRUnok+kx1WdO15EQc=
 github.com/patrickmn/go-cache v2.1.0+incompatible/go.mod h1:3Qf8kWWT7OJRJbdiICTKqZju1ZixQ/KpMGzzAfe6+WQ=
 github.com/pierrec/lz4 v2.0.5+incompatible/go.mod h1:pdkljMzZIN41W+lC3N2tnIh5sFi+IEE17M5jbnwPHcY=
