@@ -12,7 +12,7 @@ require (
 	github.com/djherbis/nio v2.0.3+incompatible // indirect
 	github.com/eycorsican/go-tun2socks v0.0.0
 	github.com/hashicorp/golang-lru v0.5.4 // indirect
-	github.com/p4gefau1t/trojan-go v0.4.10
+	github.com/frainzy1477/trojan-go v0.8.2.3
 	github.com/sirupsen/logrus v1.6.0
 	github.com/songgao/water v0.0.0-20200317203138-2b4b6d7c09d8
 	github.com/v2pro/plz v0.0.0-20180227161703-2d49b86ea382 // indirect
